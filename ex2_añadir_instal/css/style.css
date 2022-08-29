@@ -1,8 +1,8 @@
 table{
     font-family: 'Courier New', Courier, monospace;
-    border: 3px groove mediumslateblue;
-    background-color: rgb(185, 177, 230);
+    border: 5px groove mediumslateblue;
     box-shadow: inset -2px -2px 2px 2px #888;
+    border-collapse: collapse;
 }
 th{
     background-color: rgb(117, 37, 192);
@@ -11,7 +11,7 @@ td{
     padding: 0.3em;
     padding-right: 50pt;
     text-align: left;
-    border: 3px groove mediumslateblue;
+    border: 4px groove mediumslateblue;
     background-color: rgb(207, 181, 225);       
 }
 .resaltar{
