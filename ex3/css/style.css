@@ -1,0 +1,30 @@
+table{
+    width: 100%;
+    font-family: 'Courier New', Courier, monospace;
+    border: 3px groove grey;
+    font-weight: bold;    
+    border-collapse: collapse;
+    text-align: center;
+}
+td,th{
+    width: 25%;
+    border: 2px solid #888;    
+}
+h3{
+    text-align: center;
+    margin: 0;
+}
+#celda1{    
+    background-color: greenyellow;
+}
+#celda2{
+    text-align:  left;
+    background-color: rgb(47, 175, 255);
+}
+#celda6{
+    text-align:  right;
+    background-color: rgb(240, 120, 204);
+}
+.central{
+    color: red;    
+}
