@@ -1,0 +1,15 @@
+body{
+    padding: 20px;
+}
+p{
+    text-align: justify;
+}
+table{  
+    border: 1px solid black;
+}
+td,th{       
+    border: 1px solid black;
+}
+#España{
+    font-weight: bold;
+}
