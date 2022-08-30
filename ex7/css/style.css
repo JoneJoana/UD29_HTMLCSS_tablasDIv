@@ -1,55 +1,80 @@
 body{
-    background-image: url(../img/ac.jpg);
+    background: url(../img/ac.jpg);
 }
-.modA{
-    background-image: url(../img/back_mantel.jpg);
+section{ 
+    display: flex;
+    justify-content: center;
+    text-align: center;
 }
-.modB{
+div{
+    margin: 20px;
+    width: 140px;
+    height: 140px;
+    border: 1px solid black;
+}
+
+#modA{    
+    background: url(../img/back_mantel.jpg);
+}
+#modB{
+    width: 100px;
+    height: 100px;
+    padding: 20px;
     background: url(../img/back_mantel.jpg);
     background-clip: content-box;
 }
-.modC{
+#modC{
     background: url(../img/back_mantel.jpg);
     background-size: 100% 100%;
 }
-.modD{
+#modD{
+    width: 100px;
+    height: 100px;
     background: url(../img/back_mantel.jpg);
+    padding: 20px;
+    background-color: white;
     background-repeat: no-repeat;
     background-size: 100% 100%;
     background-origin: content-box;
 }
-.modE{
+#modE{
     background: url(../img/dh.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
-.modF{
+#modF{
+    width: 100px;
+    height: 100px;
     background: url(../img/dh.jpg);
+    background-color: white;
+    padding: 20px;    
     background-repeat: no-repeat;
     background-size: cover;
     background-origin: content-box;
 }
-.modG{
+#modG{
     background: url(../img/dh_2.jpg);
+    background-color: white;
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
 }
-.modF{
+#modH{
     background: url(../img/dh_3.jpg);
+    background-color: white;
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
 }
-.modI{
+#modI{
     background: linear-gradient(to right,#d2ff52 0%,#566647 100%);
 }
-.modJ{
+#modJ{
     background: linear-gradient(to bottom, rgba(240,183,161,1) 0%, rgba(140,51,16,1) 80%,rgba(117,34,1,1) 51%,rgba(191,110,78,1) 100%);
 }
-.modK{
+#modK{
     background: linear-gradient(to top,rgba(50,116,45,1) 0%,rgba(239,239,210,1) 100%);
 }
-.modL{
-    background: linear-gradient(to top,rgba(50,116,45,1) 0%);
+#modL{
+    background: linear-gradient(to top,rgba(50,116,45,1) 0%,rgba(0, 128, 0, 0));
 }
