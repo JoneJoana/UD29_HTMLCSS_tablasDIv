@@ -1,0 +1,22 @@
+table{
+    width: 70%;
+    border-collapse: collapse;
+    border: 5px ridge rgb(224, 224, 191);
+    text-align: center;
+    box-shadow: 5px 5px 5px rgb(0, 0, 0);
+    background: url(../img/texture.jpg);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+td{
+    border: 3px ridge rgb(224, 224, 191);    
+}
+#title{
+    background-color: rgb(60, 114, 60);
+}
+.cabecera1{
+    background-color: rgb(32, 178, 129);
+}
+.cabecera2{
+    background-color: rgb(55, 173, 203);;
+}
