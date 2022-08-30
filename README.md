@@ -41,5 +41,6 @@ https://jonejoana.github.io/UD29_HTMLCSS_tablasDIv/ex6/
 ```
 https://jonejoana.github.io/UD29_HTMLCSS_tablasDIv/ex7/
 ```
+![imagen](https://user-images.githubusercontent.com/99611541/187420446-f027abda-88e8-4791-ace8-eb056f21137b.png)
 
 
