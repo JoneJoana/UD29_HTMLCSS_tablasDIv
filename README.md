@@ -57,6 +57,6 @@ https://jonejoana.github.io/UD29_HTMLCSS_tablasDIv/ex9/
 
 ## ex10
 ```
-
+https://jonejoana.github.io/UD29_HTMLCSS_tablasDIv/ex10/
 ```
-
+![imagen](https://user-images.githubusercontent.com/99611541/187433845-d08b9698-d4f3-477b-8804-a7a385e48576.png)
