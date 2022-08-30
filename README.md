@@ -30,3 +30,16 @@ https://jonejoana.github.io/UD29_HTMLCSS_tablasDIv/ex4/
 https://jonejoana.github.io/UD29_HTMLCSS_tablasDIv/ex5/
 ```
 ![resultado Lista ordenada](https://user-images.githubusercontent.com/99611541/187195093-da8ad676-6f6e-4321-ac49-6af91c3dc3e0.png)
+
+## ex6
+```
+https://jonejoana.github.io/UD29_HTMLCSS_tablasDIv/ex6/
+```
+![imagen](https://user-images.githubusercontent.com/99611541/187402467-94d27ecb-8aa1-4024-a4ce-873b5140456f.png)
+
+## ex 7
+```
+https://jonejoana.github.io/UD29_HTMLCSS_tablasDIv/ex7/
+```
+
+
