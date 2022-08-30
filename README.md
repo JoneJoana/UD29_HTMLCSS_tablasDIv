@@ -49,3 +49,14 @@ https://jonejoana.github.io/UD29_HTMLCSS_tablasDIv/ex8/
 ```
 ![imagen](https://user-images.githubusercontent.com/99611541/187424609-aac006cb-b8e2-41e2-a58d-d6dbc6666996.png)
 
+## ex9
+```
+https://jonejoana.github.io/UD29_HTMLCSS_tablasDIv/ex9/
+```
+![imagen](https://user-images.githubusercontent.com/99611541/187431454-99a962a2-3821-4430-af9d-c97ad20e01fc.png)
+
+## ex10
+```
+
+```
+
